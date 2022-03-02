@@ -37,6 +37,10 @@ build
 node_modules/
 jspm_packages/
 
+# Dependency lock files.
+package-lock.json
+yarn.lock
+
 # TypeScript v1 declaration files
 typings/
 
